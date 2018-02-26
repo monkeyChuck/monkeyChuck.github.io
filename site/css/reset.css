@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    -webkit-overflow-scrolling: touch;
+    -webkit-tap-highlight-color: transparent;
+}
+html,
+body {
+    height: 100%;
+}
+html{
+	font-family:"幼圆";
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+a {
+	text-decoration: none;
+    color: #000;
+}
+ul,ol,li {
+	list-style: none;
+}
+img {
+	border: none;
+    vertical-align: middle;
+}
+small {
+    font-size: 80%;
+}
+p {
+    line-height: 1.5;
+}
